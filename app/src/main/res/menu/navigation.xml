@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option_get_place"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="@string/option_get_place" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="@string/title_dashboard" />
+
+</menu>
